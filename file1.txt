@@ -1,0 +1,14 @@
+FEATURES OF VERSION CONTROL SYSTEM in GITHUB:
+
+1.track changes across multiple files.
+2.compare versions of a project.
+3.time travel back to old versions.
+4.revert to a previous version.
+5.collaborate and share changes.
+6.combine changes.
+
+Local VCS:
+It is a local db located on your computer, that keeps all the changes to files under revison control.
+
+Centralized VCS:
+Single server that contains all the file versions. This enables multiple clients to simultaneously access files on the server,Pull them to their local computer. 
