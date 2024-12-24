@@ -11,4 +11,8 @@ Local VCS:
 It is a local db located on your computer, that keeps all the changes to files under revison control.
 
 Centralized VCS:
-Single server that contains all the file versions. This enables multiple clients to simultaneously access files on the server,Pull them to their local computer. 
+Single server that contains all the file versions. This enables multiple clients to simultaneously access files on the server,Pull them to their local computer.
+
+The method to check the GitGUI version is:
+use this command:
+                gui --version (idhi correct kaadhu)
